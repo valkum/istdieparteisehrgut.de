@@ -352,4 +352,9 @@ footer {
     display: block;
     visibility: visible;
     position: relative;
+    margin-top: 10px;
+}
+
+.no-js .reveal-modal .close-reveal-modal {
+    display: none;
 }
